@@ -1,6 +1,6 @@
-# Blog Website
+# Blog Web App
 
-A modern, responsive blog website built with React frontend and Node.js backend, featuring user authentication and full CRUD operations for blog posts.
+A modern, responsive blog web app built with React frontend and Node.js backend, featuring user authentication and full CRUD operations for blog posts.
 
 ## Features
 
