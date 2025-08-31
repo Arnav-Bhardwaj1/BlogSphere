@@ -4,14 +4,13 @@ A modern, responsive blog website built with React frontend and Node.js backend,
 
 ## Features
 
-- ✨ **Modern UI/UX** - Beautiful, responsive design with smooth animations
-- 🔐 **User Authentication** - Registration, login, and logout functionality
-- 📝 **Blog Management** - Create, read, update, and delete blog posts
-- 🎨 **Rich Text Editor** - WYSIWYG editor for creating beautiful blog posts
-- 📱 **Responsive Design** - Works perfectly on all devices
-- 🔍 **Search & Filter** - Find posts easily with search and category filtering
-- 💾 **Database** - MongoDB integration for data persistence
-- 🚀 **Deployment Ready** - Configured for Heroku/Netlify deployment
+- **Modern UI/UX** - Responsive design with smooth animations
+- **User Authentication** - Registration, login, and logout functionality
+- **Blog Management** - Create, read, update, and delete blog posts
+- **Rich Text Editor** - WYSIWYG editor for creating beautiful blog posts
+- **Responsive Design** - Works perfectly on all devices
+- **Search & Filter** - Find posts easily with search and category filtering
+- **Database** - MongoDB integration for data persistence
 
 ## Tech Stack
 
@@ -77,10 +76,6 @@ A modern, responsive blog website built with React frontend and Node.js backend,
    npm run dev
    ```
 
-5. **Open your browser**
-   - Frontend: http://localhost:5173
-   - Backend: http://localhost:5000
-
 ## Project Structure
 
 ```
@@ -120,15 +115,8 @@ blog-website/
 
 ## Deployment
 
-### Backend (Heroku)
-1. Create Heroku app
-2. Set environment variables
-3. Deploy with Git
-
-### Frontend (Netlify)
-1. Connect GitHub repository
-2. Set build settings
-3. Deploy automatically
+- Backend: Deployed on **Heroku**
+- Frontend: Deployed on **Netlify**
 
 ## Contributing
 
