@@ -1,6 +1,6 @@
-# Blog Web App
+# BlogSphere - Blog Web App
 
-A modern, responsive blog web app built with React frontend and Node.js backend, featuring user authentication and full CRUD operations for blog posts.
+BlogSphere is a responsive and feature-rich web application for creating and managing blog content. It provides secure JWT-based authentication, a WYSIWYG editor for composing posts, and full CRUD operations for publishing and editing content. The application supports category and tag filtering, site-wide full-text search, and client- and server-side validation to ensure reliable content management. Built with React on the frontend and Node/Express + MongoDB on the backend, the project focuses on a clean writing experience and consistent performance across devices.
 
 ## Features
 
